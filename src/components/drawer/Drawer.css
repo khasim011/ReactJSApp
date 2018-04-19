@@ -1,0 +1,12 @@
+.drawerMain{
+	position: absolute;
+}
+.drawerIconDiv {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+}
+.drawerIcon{
+	padding: 10px;
+}
